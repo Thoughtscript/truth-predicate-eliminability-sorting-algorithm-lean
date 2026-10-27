@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["64f6800839cecc17.olean"],
+  "m": false,
+  "i": "810da6799254c46a.ilean",
+  "c": "e1a56096195b13a2.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/adamgerard/Desktop/workspace/_2026/lean_2026/_lean/.lake/build/lib/lean /Users/adamgerard/.elan/toolchains/leanprover--lean4---v4.35.0/bin/lean /Users/adamgerard/Desktop/workspace/_2026/lean_2026/_lean/TruthPredicateProof.lean -o /Users/adamgerard/Desktop/workspace/_2026/lean_2026/_lean/.lake/build/lib/lean/TruthPredicateProof.olean -i /Users/adamgerard/Desktop/workspace/_2026/lean_2026/_lean/.lake/build/lib/lean/TruthPredicateProof.ilean -c /Users/adamgerard/Desktop/workspace/_2026/lean_2026/_lean/.lake/build/ir/TruthPredicateProof.c --setup /Users/adamgerard/Desktop/workspace/_2026/lean_2026/_lean/.lake/build/ir/TruthPredicateProof.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["«truth-predicate-proof»/TruthPredicateProof:extraDep",
+     [["@«truth-predicate-proof»:extraDep", "00000000000006bb"]]],
+    ["imports", "00000000000006bb"]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.35.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc",
+   "407ce514b71d5a10"],
+  ["/Users/adamgerard/Desktop/workspace/_2026/lean_2026/_lean/TruthPredicateProof.lean",
+   "85bcfb6b98bcd6a8"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: TruthPredicateProof", "b66c8a5d38ab4006"],
+  ["Package.id?: (some truth-predicate-proof)", "763079451cc08013"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "1e7eb162142f9354"}
